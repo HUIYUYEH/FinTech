@@ -19,7 +19,16 @@
     * IAAS 基礎設施即服務 (Infrastructure-as-a-Service)  
     * PAAS 平台即服務 (Platform-as-a-Service)  
     * SAAS 軟體即服務 (Software-as-a-Service)  
-    ![image](https://user-images.githubusercontent.com/73805870/112445651-58d09500-8d8a-11eb-9404-b1bf534d5050.png)
+    ![image](https://user-images.githubusercontent.com/73805870/112445651-58d09500-8d8a-11eb-9404-b1bf534d5050.png)  
+> ### 雲端產業發展趨勢
+  * 從2018開始有逐漸上升的趨勢，未來在2022年雲端市場能創造的產值將高達300 Billons of U.S. Dollars
+  ![image](https://user-images.githubusercontent.com/73805870/112446527-4571f980-8d8b-11eb-9190-d08150ae93ae.png)
+
+  * 相關新聞：  
+  [Canalys調查：第一季全球雲端市場因疫情成長34%，但飯店業者的上雲計畫被迫中斷](https://www.ithome.com.tw/news/137498)  
+  ![image](https://user-images.githubusercontent.com/73805870/112446729-794d1f00-8d8b-11eb-8c5d-c37a09c6054c.png)
+
+  
 
 ## My Opinion
 
