@@ -16,15 +16,15 @@
 * Homework1
 > [What do I think of Cloud Computing?](https://github.com/HUIYUYEH/FinTech/blob/main/HW/HW1.md)
 * Homework2
-> [Build a Website using Amazon EC2 with LAMP]
+> Build a Website using Amazon EC2 with LAMP
 * Homework3
-> [Build a Website using Amazon S3(Versioning) and AWS Amplify]
+> Build a Website using Amazon S3(Versioning) and AWS Amplify
 * Homework4
-> [Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda]
+> Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda
 * Homework5
-> [Create a Database using Amazon RDS or Amazon DynamoDB]
+> Create a Database using Amazon RDS or Amazon DynamoDB
 * Homework6
-> [Create a Docker Container or Build your own Project Services]
+> Create a Docker Container or Build your own Project Services
 ## Fintech Project
 ### 台灣人壽：數位轉型與客戶體驗優化 
 > 業師：台灣人壽 林怡萱  
