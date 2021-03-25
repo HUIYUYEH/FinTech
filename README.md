@@ -8,10 +8,17 @@
 ## Course Information
 
 ## Lesson
-* Week1
-* Week2
-* Week3
-* Week4
+* Week1  
+  * [Class Intro](https://drive.google.com/file/d/1RCUnZUk5qfb_ukjVjv5ievIR-3ZHs6Do/view)  
+* Week2  
+228連假
+* Week3  
+  * [Introduction](https://drive.google.com/file/d/1UYbm03ehUAsKlICvyp1P4I0PZ_g8vlCv/view)
+* Week4  
+  * [AWS LAMP](https://drive.google.com/file/d/1ysolgVFlpZTMhIPXL7sbdnSzjG5XUicN/view)  
+* Week5  
+  * [AWS IAM & S3](https://drive.google.com/file/d/1zTAF-32yebhsIAqjfyM30cjMKl9lvbf-/view)  
+* Week6  
 ## Homework
 * Homework1
 > [What do I think of Cloud Computing?](https://github.com/HUIYUYEH/FinTech/blob/main/HW/HW1.md)
