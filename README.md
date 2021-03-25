@@ -6,7 +6,15 @@
   * Major : Big Data Management
   * Double Major : Philosophy
 ## Course Information
-
+### 雲端運算服務 CLOUD COMPUTING SERVICE  
+* 授課教師：蔡芸琤 TSAIYUN-CHENG  
+* 助教：司福民、陳偉傑、蔡雨臻  
+* 教學目標：  
+透過金融科技專題來整合大數據雲端服務，實作出可應用於金融產業的專題。  
+跨校組隊解決金融業者所提供的實務問題。  
+* 課程內容：  
+大數據分析的四個步驟：取得資料、儲存資料、運算資料、視覺化資料。針對此四步驟，課程依序介紹AWS平台上相關的工具使用方式。  
+* [教學計劃](http://doc.sys.scu.edu.tw/teachplanHtml/1092/1092BDM21301.html)
 ## Lesson
 * Week1  
   * [Class Intro](https://drive.google.com/file/d/1RCUnZUk5qfb_ukjVjv5ievIR-3ZHs6Do/view)  
