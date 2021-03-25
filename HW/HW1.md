@@ -19,6 +19,7 @@
     * IAAS 基礎設施即服務 (Infrastructure-as-a-Service)  
     * PAAS 平台即服務 (Platform-as-a-Service)  
     * SAAS 軟體即服務 (Software-as-a-Service)  
+    ![image](https://user-images.githubusercontent.com/73805870/112445651-58d09500-8d8a-11eb-9404-b1bf534d5050.png)
 
 ## My Opinion
 
