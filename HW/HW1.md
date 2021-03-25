@@ -5,10 +5,20 @@
 透過網路（Internet）訪問服務商（供應商）的資源，其包括運算、儲存、資料庫等等。
 > ### 雲端運算543
   * 5個服務特色  
+    * On-demand self-service 隨需自助服務  
+    * Broad network access 隨時隨地用任何網路裝置存取  
+    * Measured Service 被監控與量測的服務  
+    * Resource pooling 多人共享資源池  
+    * Rapid elasticity 快速重新佈署彈性  
   * 4種部屬方法  
-  * 3種服務模式  
-
-
+    * 公有雲  
+    * 私有雲  
+    * 社群雲  
+    * 混合雲   
+  * 3種服務模式    
+    * IAAS 基礎設施即服務 (Infrastructure-as-a-Service)  
+    * PAAS 平台即服務 (Platform-as-a-Service)  
+    * SAAS 軟體即服務 (Software-as-a-Service)  
 
 ## My Opinion
 
