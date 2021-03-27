@@ -31,7 +31,7 @@
 * Homework1
 > [What do I think of Cloud Computing?](https://github.com/HUIYUYEH/FinTech/blob/main/HW/HW1.md)
 * Homework2
-> Build a Website using Amazon EC2 with LAMP
+> [Build a Website using Amazon EC2 with LAMP](https://youtu.be/li073tBR-h8)
 * Homework3
 > Build a Website using Amazon S3(Versioning) and AWS Amplify
 * Homework4
