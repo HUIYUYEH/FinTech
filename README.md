@@ -34,7 +34,7 @@
 * Homework2
 > [Build a Website using Amazon EC2 with LAMP](https://youtu.be/li073tBR-h8)  
 * Homework3
-> Build a Website using Amazon S3(Versioning) and AWS Amplify
+> [Build a Website using Amazon S3(Versioning) and AWS Amplify](https://youtu.be/l_-yWS3O_9Q)  
 * Homework4
 > Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda
 * Homework5
