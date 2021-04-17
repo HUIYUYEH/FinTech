@@ -28,6 +28,12 @@
   * [AWS IAM & S3](https://drive.google.com/file/d/1zTAF-32yebhsIAqjfyM30cjMKl9lvbf-/view)  
 * Week6  
   * [API Gateway and AWS Lambda](https://drive.google.com/file/d/1-AsnJmAldi_-gPnxdQcyBifScMmR_IBk/view)
+* Week7  
+學術交流週放假  
+* Week8  
+  * []()  
+* Week9  
+  * []()
 ## Homework
 * Homework1
 > [What do I think of Cloud Computing?](https://github.com/HUIYUYEH/FinTech/blob/main/HW/HW1.md)
@@ -41,11 +47,11 @@
 > Create a Database using Amazon RDS or Amazon DynamoDB
 * Homework6
 > Create a Docker Container or Build your own Project Services
+> 
 ## Fintech Project
 ### 台灣人壽：數位轉型與客戶體驗優化 
 業師：台灣人壽 林怡萱  
 指導老師：政大風管彭金隆老師、東吳資科蔡芸琤老師  
-
 組員：  
 |姓名 |校系|
 |-----|--------|
@@ -54,3 +60,20 @@
 | 陳潔翎 | 東吳巨資 |　
 | 賴廷旻 | 政大風管 |　
 | 蘇奕丞 | 政大風管 |
+
+專案進度追蹤：
+* [Trello](https://trello.com/invite/b/gXAXC7Dl/857c34d91c57317b4b5b4baf330f0923/%E9%80%B2%E5%BA%A6%E8%BF%BD%E8%B9%A4)
+
+### 階段匯報  
+#### 第一階段匯報  
+> [匯報PPT](https://drive.google.com/file/d/1_ZgxCqjD__lHtsoNMSbMR1x1ZPUgKVWF/view?usp=sharing)  
+> [第一次匯報影片說明](https://youtu.be/RPFHPfakvGY)　　
+> 
+> 匯報主要內容
+> 1. 各組員的分工狀況  
+> 2. 各組每次開會的成果與檢討（必須搭配專案管理trello或notion）  
+> 3. 與業師們討論的原因與獲得的回饋成果  
+> 4. 階段性成果與各種實驗結果（不論成功或失敗）  
+> 5. 目前遇到的困難與阻礙（人、事、物） 
+>
+
