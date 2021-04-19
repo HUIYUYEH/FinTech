@@ -33,7 +33,8 @@
 * Week8  
   * [AWS RDS and DynamoDB]()  
 * Week9  
-  * [Docker ECS](https://drive.google.com/file/d/1-RPizv8fmWbJ5dP_zVY4JNuMLPS1ftLM/view)
+  * [Docker ECS](https://drive.google.com/file/d/1-RPizv8fmWbJ5dP_zVY4JNuMLPS1ftLM/view)  
+  * [Docker](https://www.notion.so/Docker-5cc2ffdbebd44dc1ab46ab1dfc31ebeb)  
 ## Homework
 * Homework1
 > [What do I think of Cloud Computing?](https://github.com/HUIYUYEH/FinTech/blob/main/HW/HW1.md)
