@@ -31,9 +31,9 @@
 * Week7  
 學術交流週放假  
 * Week8  
-  * []()  
+  * [AWS RDS and DynamoDB]()  
 * Week9  
-  * []()
+  * [Docker ECS](https://drive.google.com/file/d/1-RPizv8fmWbJ5dP_zVY4JNuMLPS1ftLM/view)
 ## Homework
 * Homework1
 > [What do I think of Cloud Computing?](https://github.com/HUIYUYEH/FinTech/blob/main/HW/HW1.md)
