@@ -77,4 +77,12 @@
 > 階段性成果與各種實驗結果（不論成功或失敗）  
 > 目前遇到的困難與阻礙（人、事、物） 
 >
+>
+>#### 第二階段匯報  
+> [匯報PPT](https://drive.google.com/file/d/1MBJLSV7DR7zMfG3V5B2E9GALloaPVSoz/view?usp=sharing)  　
+> 
+> 匯報主要內容：  
+> 各組員的分工流程   
+> 提出最小可行性方案規劃 
+
 
