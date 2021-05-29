@@ -78,11 +78,23 @@
 > 目前遇到的困難與阻礙（人、事、物） 
 >
 >
->#### 第二階段匯報  
+#### 第二階段匯報  
 > [匯報PPT](https://drive.google.com/file/d/1MBJLSV7DR7zMfG3V5B2E9GALloaPVSoz/view?usp=sharing)  　
 > 
 > 匯報主要內容：  
 > 各組員的分工流程   
 > 提出最小可行性方案規劃 
+>
+>
+#### 第三階段匯報  
+> [匯報PPT](https://drive.google.com/file/d/1m1o6kFgrjPS7nh__U4hmACiq2hTrVF9E/view?usp=sharing)  
+> [第一次匯報影片說明](https://youtu.be/QFGWaTFFZJw)　　
+> 
+> 匯報主要內容：  
+> 開會成果  
+> 與業師們討論成果
+> 階段性成果  
+> 預期呈現方式  
+> 
 
 
