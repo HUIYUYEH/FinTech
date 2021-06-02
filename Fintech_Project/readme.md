@@ -4,7 +4,7 @@
 業師：台灣人壽 林怡萱  
 指導老師：政大風管彭金隆老師、東吳資科蔡芸琤老師 
 
-[專案連結](https://github.com/HUIYUYEH/Taiwan-Life-Insurance)
+[專案連結](https://github.com/HUIYUYEH/Taiwan-Life-Insurance)  
 [進度追蹤 Trello](https://trello.com/invite/b/gXAXC7Dl/857c34d91c57317b4b5b4baf330f0923/%E9%80%B2%E5%BA%A6%E8%BF%BD%E8%B9%A4)  
 
 組員：  
