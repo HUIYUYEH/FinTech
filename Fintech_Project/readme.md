@@ -1,7 +1,7 @@
 # Fintech Project 台灣人壽專案
 ## 專案內容
-台灣人壽：數位轉型與客戶體驗優化 
-業師：台灣人壽 林怡萱  
+台灣人壽：數位轉型與客戶體驗優化  
+業師：台灣人壽 林怡萱、游舒晴  
 指導老師：政大風管彭金隆老師、東吳資科蔡芸琤老師 
 
 [專案連結](https://github.com/HUIYUYEH/Taiwan-Life-Insurance)  
