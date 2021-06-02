@@ -63,7 +63,10 @@
 | 蘇奕丞 | 政大風管 |
 
 專案進度追蹤：
-* [Trello](https://trello.com/invite/b/gXAXC7Dl/857c34d91c57317b4b5b4baf330f0923/%E9%80%B2%E5%BA%A6%E8%BF%BD%E8%B9%A4)
+* [Trello](https://trello.com/invite/b/gXAXC7Dl/857c34d91c57317b4b5b4baf330f0923/%E9%80%B2%E5%BA%A6%E8%BF%BD%E8%B9%A4)  
+
+專案成果網站部署：
+* [台灣人壽業務員搜尋平台](https://main.d2lqp7kjdjujgo.amplifyapp.com/)
 
 ### 階段匯報  
 #### 第一階段匯報  
