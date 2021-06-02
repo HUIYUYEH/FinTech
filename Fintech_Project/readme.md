@@ -30,7 +30,7 @@
 >
 >
 ### 第二階段匯報  
-> 1.. 各組員的分工流程   
+> 1. 各組員的分工流程   
 > 2. 提出最小可行性方案規劃 
 > 
 > [匯報PPT](https://drive.google.com/file/d/1MBJLSV7DR7zMfG3V5B2E9GALloaPVSoz/view?usp=sharing)  　
