@@ -72,8 +72,8 @@
 
 
 ### 階段匯報  
-專案進度追蹤：
-* [Trello](https://trello.com/invite/b/gXAXC7Dl/857c34d91c57317b4b5b4baf330f0923/%E9%80%B2%E5%BA%A6%E8%BF%BD%E8%B9%A4)  
+> 專案進度追蹤：
+> * [Trello](https://trello.com/invite/b/gXAXC7Dl/857c34d91c57317b4b5b4baf330f0923/%E9%80%B2%E5%BA%A6%E8%BF%BD%E8%B9%A4)  
 #### 第一階段匯報  
 > [匯報PPT](https://drive.google.com/file/d/1_ZgxCqjD__lHtsoNMSbMR1x1ZPUgKVWF/view?usp=sharing)  
 > [第一次匯報影片說明](https://youtu.be/RPFHPfakvGY)　　
