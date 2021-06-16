@@ -50,7 +50,7 @@
 > [Create a Docker Container or Build your own Project Services](https://youtu.be/HVvn6OPj6lA)
 > 
 ## Fintech Project
-### 台灣人壽：數位轉型與客戶體驗優化 
+### [台灣人壽：數位轉型與客戶體驗優化](https://github.com/HUIYUYEH/FinTech/tree/main/Fintech_Project)  
 業師：台灣人壽 林怡萱  
 指導老師：政大風管彭金隆老師、東吳資科蔡芸琤老師  
 組員：  
