@@ -1,5 +1,4 @@
-# Fintech Project 台灣人壽專案
-## 花甲不孤單
+# Fintech Project 台灣人壽專案 - 花甲不孤單
 ## 專案內容
 台灣人壽：數位轉型與客戶體驗優化  
 業師：台灣人壽 林怡萱、游舒晴  
@@ -7,8 +6,6 @@
  
 [進度追蹤 Trello](https://trello.com/invite/b/gXAXC7Dl/857c34d91c57317b4b5b4baf330f0923/%E9%80%B2%E5%BA%A6%E8%BF%BD%E8%B9%A4)  
 
-專案成果網站部署：  
-[台灣人壽業務員搜尋平台](https://main.d2lqp7kjdjujgo.amplifyapp.com/)
 
 組員：  
 |姓名 |校系|
@@ -50,7 +47,7 @@
 >
 ## 專案成果
 
-> [15 min Project Demo]
-> [3 min Project Intro]
-> [企劃書]
-> [網頁連結]
+> [15 min Project Demo]()  
+> [3 min Project Intro]()  
+> [企劃書]()  
+> [台灣人壽業務員搜尋平台](https://main.d2lqp7kjdjujgo.amplifyapp.com/)
