@@ -48,6 +48,7 @@
 ## 專案成果
 > [3 min Project Intro]()  
 > [15 min Project Demo](https://youtu.be/OSfNkZ1p7QU)  
-> [15 min Project Demo PPT]()  
+
 > [企劃書](https://github.com/HUIYUYEH/FinTech/blob/main/Fintech_Project/Project_proposal.pdf)  
 > [台灣人壽業務員搜尋平台](https://main.d2lqp7kjdjujgo.amplifyapp.com/)
+> [15 min Project Demo PPT](https://github.com/HUIYUYEH/FinTech/blob/main/Fintech_Project/Project_demo_ppt.pdf)  
