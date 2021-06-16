@@ -49,5 +49,5 @@
 
 > [15 min Project Demo](https://youtu.be/OSfNkZ1p7QU)  
 > [3 min Project Intro]()  
-> [企劃書]()  
+> [企劃書](https://drive.google.com/file/d/1V7OAnEyLJWRFUl_dpIEfsXV7-23rS_XH/view?usp=sharing)  
 > [台灣人壽業務員搜尋平台](https://main.d2lqp7kjdjujgo.amplifyapp.com/)
