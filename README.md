@@ -63,7 +63,7 @@
 | 蘇奕丞 | 政大風管 |  
 
 ### 專案成果
-[3 min Project Intro]()  
+[3 min Project Intro](https://www.youtube.com/watch?v=DYNIMNFeyUw)  
 [15 min Project Demo](https://youtu.be/OSfNkZ1p7QU)  
 
 [企劃書](https://github.com/HUIYUYEH/FinTech/blob/main/Fintech_Project/Project_proposal.pdf)  
